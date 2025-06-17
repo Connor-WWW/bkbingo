@@ -3,3 +3,10 @@
     src:
         url(fonts/Flame.ttf) format("truetype");
 }
+h1 {
+    font-family: 'BK';
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
