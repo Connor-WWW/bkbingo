@@ -1,5 +1,5 @@
 @font-face {
     font-family: 'BK';
     src:
-        url(fonts/Flame.ttf);
+        url(fonts/Flame.ttf) format("truetype");
 }
